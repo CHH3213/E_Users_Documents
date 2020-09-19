@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3358605e-0ca1-485a-9177-f9918e739e15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fXPno9tn8vkWQGwr69HMMPFrC0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="面向对象的学员管理系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3358605e-0ca1-485a-9177-f9918e739e15" name="Default Changelist" comment="" />
+      <created>1596361633766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596361633766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="164" key="GridCell.Tab.0.bottom" timestamp="1596382217450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596382217450" />
+    <state width="1340" height="164" key="GridCell.Tab.0.center" timestamp="1596382217450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596382217450" />
+    <state width="1340" height="164" key="GridCell.Tab.0.left" timestamp="1596382217450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596382217450" />
+    <state width="1340" height="164" key="GridCell.Tab.0.right" timestamp="1596382217450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596382217450" />
+    <state x="252" y="101" key="refactoring.ChangeSignatureDialog" timestamp="1596364936699">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="252" y="101" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1596364936699" />
+    <state x="262" y="-1" width="840" height="174" key="search.everywhere.popup" timestamp="1596380397074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="174" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596380397074" />
+  </component>
+</project>
